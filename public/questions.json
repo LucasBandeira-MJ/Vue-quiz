@@ -1,0 +1,51 @@
+[
+    {
+        "id": 0,
+        "question": "Em 2019, o Facebook e o Instagram lançaram um novo recurso para a verificação e apuração de Fake News.",
+        "truefalse": true,
+        "noticia": "a notícia é verdadeira!",
+        "answer": "O recurso chegou às redes sociais brasileiras em outubro e funciona da seguinte maneira: sempre que uma informação compartilhada for identificada como falsa, por agências de checagem de fatos parceiras do Facebook, um pop-up aparecerá com a classificação de informação falsa."
+    },
+    {
+        "id": 1,
+        "question": "Neste ano, os ônibus da cidade de São Paulo começaram a testar o recurso de pagamento por meio do sistema NFC para cartões e Smartphones.",
+        "truefalse": true,
+        "noticia": "a notícia é verdadeira!",
+        "answer": "No mês de setembro, algumas linhas de ônibus em São Paulo começaram testes para aceitar o pagamento das passagens com o uso desta tecnologia."
+    },
+    {
+        "id": 2,
+        "question": " O Dia Mundial de Prevenção do Suicídio é comemorado no dia 10 de Agosto.",
+        "truefalse": false,
+        "noticia": "a notícia é falsa!",
+        "answer": "A data é comemorada em 10 de Setembro, dentro da campanha Setembro Amarelo, que busca a conscientização da prevenção do suicídio."
+    },
+    {
+        "id": 3,
+        "question": "Em 2019, o Instagram começou a utilizar um recurso para esconder o número de likes que as pessoas recebem em posts. Agora, apenas os seguidores conseguem ver os likes.",
+        "truefalse": false,
+        "noticia": "a notícia é falsa!",
+        "answer": "Somente o dono do perfil pode ver o total de curtidas em suas publicações, mas esse número não é mais exibido para as demais pessoas."
+    },
+    {
+        "id": 4,
+        "question": " Em 2019, uma famosa marca chinesa de tecnologia lançou um smartphone com 400% de resolução de tela.",
+        "truefalse": false,
+        "noticia": "a notícia é falsa!",
+        "answer": "Neste ano, a fabricante chinesa Xiaomi revelou o Mi Mix Alpha, smartphone que possui um display de 180% de proporção, ou seja, a tela envolve completamente o aparelho."
+    },
+    {
+        "id": 5,
+        "question": "Neste ano, o WhatsApp começou a utilizar um recurso que pede a permissão do usuário para ser adicionado em grupos.",
+        "truefalse": true,
+        "noticia": "a notícia é verdadeira!",
+        "answer": "O recurso ainda está em fase de testes e não foi lançado oficialmente, mas a nova funcionalidade do aplicativo visa pedir a autorização do usuário antes de incluí-lo em grupos."
+    },
+    {
+        "id": 6,
+        "question": " A foto mais curtida do Instagram em 2019 foi a de um ovo.",
+        "truefalse": true,
+        "noticia": "a notícia é verdadeira!",
+        "answer": "Com mais de 52 milhões de curtidas, a foto de um ovo fazia parte de uma campanha que chamava a atenção para questões de saúde mental e pressão nas redes sociais."
+    }
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.84517797,20.4881554 C7.19430415,19.8372815 6.13902918,19.8372815 5.48815536,20.4881554 C4.83728155,21.1390292 4.83728155,22.1943041 5.48815536,22.845178 L13.8214887,31.1785113 C14.4723625,31.8293851 15.5276375,31.8293851 16.1785113,31.1785113 L34.5118446,12.845178 C35.1627185,12.1943041 35.1627185,11.1390292 34.5118446,10.4881554 C33.8609708,9.83728155 32.8056959,9.83728155 32.154822,10.4881554 L15,27.6429774 L7.84517797,20.4881554 Z" id="path-1"></path>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06.01_Desk_Quiz_preenchendo" transform="translate(-692.000000, -1454.000000)">
+            <g id=":pergunta-1:" transform="translate(390.000000, 1244.000000)">
+                <g id=":feedback:" transform="translate(0.000000, 170.000000)">
+                    <g id="Certo">
+                        <g transform="translate(267.000000, 40.000000)" id="Group">
+                            <g transform="translate(35.000000, 0.000000)">
+                                <circle id="Oval" fill="#99CC34" cx="28" cy="28" r="28"></circle>
+                                <g id="icon/check" transform="translate(8.000000, 8.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                    <g id="COLOR/white_" mask="url(#mask-2)" fill-rule="evenodd">
+                                        <rect id="Rectangle" fill="#000000" x="0" y="0" width="40" height="40"></rect>
+                                        <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

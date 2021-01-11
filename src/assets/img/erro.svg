@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.8214887,8.8214887 C9.47236252,8.17061488 10.5276375,8.17061488 11.1785113,8.8214887 L11.1785113,8.8214887 L20.0003333,17.6433333 L28.8214887,8.8214887 C29.4340758,8.20890157 30.4048868,8.17286704 31.0596179,8.71338509 L31.1785113,8.8214887 C31.8293851,9.47236252 31.8293851,10.5276375 31.1785113,11.1785113 L31.1785113,11.1785113 L22.3573333,20.0003333 L31.1785113,28.8214887 C31.7910984,29.4340758 31.827133,30.4048868 31.2866149,31.0596179 L31.1785113,31.1785113 C30.5276375,31.8293851 29.4723625,31.8293851 28.8214887,31.1785113 L28.8214887,31.1785113 L20.0003333,22.3573333 L11.1785113,31.1785113 C10.5659242,31.7910984 9.5951132,31.827133 8.94038209,31.2866149 L8.8214887,31.1785113 C8.17061488,30.5276375 8.17061488,29.4723625 8.8214887,28.8214887 L8.8214887,28.8214887 L17.6433333,20.0003333 L8.8214887,11.1785113 C8.20890157,10.5659242 8.17286704,9.5951132 8.71338509,8.94038209 Z" id="path-1"></path>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06.01_Desk_Quiz_preenchendo" transform="translate(-692.000000, -1761.000000)">
+            <g id=":pergunta-2:" transform="translate(390.000000, 1551.000000)">
+                <g id=":feedback:" transform="translate(0.000000, 170.000000)">
+                    <g id="Certo">
+                        <g transform="translate(272.000000, 40.000000)" id="Group">
+                            <g transform="translate(30.000000, 0.000000)">
+                                <circle id="Oval" fill="#FF2E54" cx="28" cy="28" r="28"></circle>
+                                <g id="icon/fechar" transform="translate(8.000000, 8.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                    <g id="COLOR/white_" mask="url(#mask-2)" fill-rule="evenodd">
+                                        <rect id="Rectangle" fill="#000000" x="0" y="0" width="40" height="40"></rect>
+                                        <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
